@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a third-year PhD student in the Department of Mathematics and Statistics at York University, honored to be supervised by [Prof. Jairo Diaz-Rodriguez](https://sites.google.com/view/jdiazrodriguez/home)
+I am a third-year PhD student in the Department of Mathematics and Statistics at York University, honored to be supervised by [Prof. Jairo Diaz-Rodriguez](https://sites.google.com/view/jdiazrodriguez/home).
 
 My research explores the statistical and computational foundations of machine learning, with a particular focus on large language models for detecting structural changes and dynamics in sequences.
 
