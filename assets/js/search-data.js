@@ -400,7 +400,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-my-first-paper-accepted-by-neurips-2025-dynamics-of-spontaneous-topic-changes-in-next-token-prediction-with-self-attention",
-          title: 'My first paper accepted by NeurIPS 2025! Dynamics of Spontaneous Topic Changes in...',
+          title: 'My first paper accepted by NeurIPS 2025. Dynamics of Spontaneous Topic Changes in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
