@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-received-the-student-research-presentation-award-from-the-statistical-society-of-canada-2025-smile",
+          title: 'Received the Student Research Presentation Award from the Statistical Society of Canada (2025)...',
           description: "",
           section: "News",},{id: "news-my-first-paper-accepted-by-neurips-2025-dynamics-of-spontaneous-topic-changes-in-next-token-prediction-with-self-attention",
           title: 'My first paper accepted by NeurIPS 2025. Dynamics of Spontaneous Topic Changes in...',
