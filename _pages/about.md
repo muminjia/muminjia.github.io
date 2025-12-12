@@ -12,8 +12,7 @@ profile:
     <p>York University, Toronto, Canada</p>
 
     
-selected_papers: false # includes a list of papers marked as "selected={true}"
-publications: true # shows the full publications list on the About page
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
