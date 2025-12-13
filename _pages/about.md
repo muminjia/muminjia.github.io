@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: 
 
@@ -30,7 +30,7 @@ I am a third-year PhD student in the Department of Mathematics and Statistics at
 
 My research explores the statistical and computational foundations of machine learning, with a particular focus on large language models for detecting structural changes and dynamics in sequences.
 
-Research Interests:
+**Research Interests:**
 - Large Language Models & Natural Language Processing
 - Artificial Intelligence
 - Statistical Machine Learning
