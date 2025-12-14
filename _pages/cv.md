@@ -69,7 +69,7 @@ cv_pdf: muminjia_cv.pdf # you can also use external links here
     <strong>Texas Instruments Semiconductor Technologies</strong>, Shanghai, China<br>
     <em>System Support Engineer</em>
   </div>
-  <div>July 2021 – Mar 2023</div>
+  <div>Jul 2021 – Mar 2023</div>
 </div>
 ---
 
