@@ -8,7 +8,7 @@ cv_pdf: muminjia_cv.pdf # you can also use external links here
 
 ---
 <!-- PDF only: embed + download fallback -->
-<p><a href="/assets/pdf/muminjia_cv.pdf" download>Download CV </a></p>
+<!-- <p><a href="/assets/pdf/muminjia_cv.pdf" download>Download CV </a></p> -->
 
 
 
