@@ -6,6 +6,7 @@ related_posts: false
 ---
 
 One new preprint is out.\
-[Consistent Kernel Change-Point Detection under m-Dependence for Text Segmentation](https://arxiv.org/pdf/2510.03437)
+[Unsupervised Text Segmentation via Kernel Change-Point Detection on Sentence
+Embeddings](https://arxiv.org/pdf/2601.18788)
 
 
