@@ -40,7 +40,7 @@ ninja.data = [{
           section: "News",},{id: "news-will-join-microsoft-as-an-applied-scientist-intern-this-summer-in-montreal",
           title: 'Will join Microsoft as an Applied Scientist Intern this summer in Montreal. 😀...',
           description: "",
-          section: "News",},{id: "news-two-papers-accepted-neurips-2026-when-can-digital-personas-reliably-approximate-human-survey-findings-neurips-2026-ai-native-academia-workshop-policy-conditioned-ai-use-detection-an-evidentiary-framework-for-academic-publishing",
+          section: "News",},{id: "news-two-papers-accepted-neurips-2026-when-can-digital-personas-reliably-approximate-human-survey-findings-neurips-2026-workshop-ai-native-academia-workshop-policy-conditioned-ai-use-detection-an-evidentiary-framework-for-academic-publishing",
           title: 'Two papers accepted: NeurIPS 2026: When Can Digital Personas Reliably Approximate Human Survey...',
           description: "",
           section: "News",},{id: "projects-project-1",
